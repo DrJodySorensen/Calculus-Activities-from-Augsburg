@@ -1,4 +1,4 @@
-##Instantaneous Rate of Change
+## Instantaneous Rate of Change
 
 This activity introduces instantaneous rate of change as average rate of change over a smaller and smaller interval.  In the lecture we use limits informally.  
 As always, we encourage students to use Desmos to do calculations and graphing.  
