@@ -4,6 +4,6 @@ These are the daily introductory activities for our first semester calculus clas
 
 Each section includes a .pdf file of the activity, and a .zip file containing the LaTeX file (.tex) as well as any relevant images. 
 
-Please contace me with questions, comments, and suggestions!  
+Please contact me with questions, comments, and suggestions!  
 
 Jody Sorensen, sorensj1@augsburg.edu 
