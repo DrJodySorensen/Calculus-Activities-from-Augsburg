@@ -5,3 +5,5 @@ This activity is the first thing students do on the first day of Calculus II - b
 It is designed to get their wheels turning while not scaring them about what they do and do not remember from Calculus I.
 
 It also introduces a few important classes of differential equations: exponential, logistic, and a saturation model (like in Newton's Law of Heating or Cooling).
+
+This folder includes the .pdf file and a .zip file containing the /LaTeX file and any required images.  
